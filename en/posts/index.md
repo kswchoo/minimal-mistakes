@@ -1,5 +1,5 @@
 ---
 layout: post-index
-lang: ko
+lang: en
 excerpt: "A List of Posts"
 ---

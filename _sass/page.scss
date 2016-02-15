@@ -349,7 +349,8 @@ $button-size: 1.5rem;
 	}
 	p {
 		font-size: 80%;
-		font-style: italic;
+		color: gray;
+		text-align: justify;
 	}
 	a, a:hover {
 		border-bottom: 0 solid transparent;
@@ -447,6 +448,8 @@ $button-size: 1.5rem;
 
 /* Post content wrapper */
 .article-wrap {
+	line-height: 160%;
+	text-align: justify;
 	// Dotted line underlines for links
 	p > a,
 	p > em > a,

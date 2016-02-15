@@ -1,12 +1,14 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+#title: 케빈네
+locale: ko_KR
+lang: ko
 url:
 
 
-# Jekyll configuration
 
+
+# Jekyll configuration
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
@@ -15,6 +17,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+  - octopress-multilingual
 
 kramdown:
   auto_ids: true
@@ -40,13 +43,13 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+#  name: Kevin
+  avatar: sungwoo-bio.jpg
+#  bio: "NAVER에서 iOS 앱을 개발하며 살고 있는 평범한 개발자입니다. 여행, 스노우보드 그리고 뻘짓에 대해 덕후입니다. 항상 덕력계발에 힘쓰고 있습니다."
+  email: choo@sungwoo.me
+  disqus-shortname: kswchoo
+  twitter: kswchoo
+  facebook: kswchoo
   google:
     plus: #username
     analytics:
@@ -54,11 +57,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: kswchoo
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: sungwoo
   xing: #username
-  instagram: #username
+  instagram: kswchoo
   lastfm: #username
   tumblr: #username
   pinterest: #username

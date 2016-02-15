@@ -1,0 +1,13 @@
+title: Kevin's
+owner:
+  name: Kevin
+  bio: "Developing iOS apps for NAVER. Mania for traveling, snowboarding and other stupid things. Always focused on developing stupid stuffs."
+
+text:
+  you_might_also_enjoy: "You might also enjoy"
+  view_all_posts: "View all posts"
+  all_posts: "All posts in English"
+  recent_posts: "Recent posts"
+  timestamp: "This post was published on @date."
+  modified: "And modified on @modified."
+  share_on: "Share on"

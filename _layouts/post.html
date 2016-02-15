@@ -45,7 +45,9 @@
       <hr />
       <footer role="contentinfo">
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+        {% capture pretty_date %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% endcapture %}
+        {% capture pretty_modified %}<time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endcapture %}
+        <p class="byline">{{ lang.text.timestamp | replace:'@date',pretty_date }}{% if page.modified %} {{ lang.text.modified | replace:'@modified',pretty_modified }}{% endif %}</p>
       </footer>
     </div><!-- /.article-wrap -->
   {% if site.owner.disqus-shortname and page.comments == true %}
@@ -57,7 +59,7 @@
 <div class="footer-wrap">
   {% if site.related_posts.size > 0 %}
   <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
+  <h4>{{ lang.text.you_might_also_enjoy }} <small class="pull-right">(<a href="{{ site.url }}/posts/">{{ lang.text.view_all_posts }}</a>)</small></h4>
     <ul>
     {% for post in site.related_posts limit:3 %}
       <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>

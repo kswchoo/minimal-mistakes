@@ -9,8 +9,8 @@
 $doc-font-size: 16;
 $doc-line-height: 26;
 $paragraph-indent: true !default;
-$base-font: 'PT Serif', serif;
-$heading-font: 'PT Sans Narrow', sans-serif;
+$base-font: 'PT Sans', 'NanumSquare', serif;
+$heading-font: 'PT Sans', 'NanumSquareBold', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
 
@@ -28,6 +28,7 @@ $compcolor 		  : spin($basecolor, 180);
 $bordercolor    : $basecolor;
 $white          : #fff;
 $black          : #111;
+$gray           : #555;
 $accentcolor    : $black;
 
 /* buttons */

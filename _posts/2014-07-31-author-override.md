@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: "Author Override"
 author: billy_rick
 modified:
