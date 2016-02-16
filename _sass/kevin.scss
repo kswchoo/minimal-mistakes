@@ -48,3 +48,33 @@
 		font-weight: bold;
 	}
 }
+
+.article-wrap {
+	p {
+		padding-top: 0.5rem;
+	}
+}
+
+figure, figure.half, figure.third {
+	margin-bottom: 1rem;
+}
+
+figcaption {
+  color: $gray;
+}
+
+#main {
+	.post, .page {
+		@media #{$large} {
+			@include grid(12,7);
+		}
+		@media #{$x-large} {
+			@include grid(12,6);
+		}
+	}
+}
+
+.article-wrap {
+	line-height: 165%;
+	text-align: justify;
+}
