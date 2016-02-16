@@ -6,16 +6,13 @@
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
 		    	<li><a href="/">{{ lang.text.home }}</a></li>
+		    	{% if page.lang == 'en' %}
+		    	<li><a href="/en/posts">{{ lang.text.posts }}</a></li>
+		    	<li><a href="/en/cv">{{ lang.text.cv }}</a></li>
+		    	{% else %}
 		    	<li><a href="/posts">{{ lang.text.posts }}</a></li>
 		    	<li><a href="/cv">{{ lang.text.cv }}</a></li>
-		        {% for link in site.data.navigation %}
-				    {% if link.url contains 'http' %}
-				        {% assign domain = '' %}
-				        {% else %}
-				        {% assign domain = site.url %}
-				    {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-				{% endfor %}
+		    	{% endif %}
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->

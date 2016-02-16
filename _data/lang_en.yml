@@ -20,3 +20,6 @@ text:
   book: "Book"
   honor: "Honor"
   talk: "Talk"
+  advisor: "Advisor"
+  dissertation: "Dissertation"
+  translations: "Read in other language"

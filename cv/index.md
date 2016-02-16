@@ -1,7 +1,12 @@
 ---
 layout: cv
 title: 걸어온 길
-modified: 2014-08-08T20:53:07.573882-04:00
+lang: ko
+translation_id: 6d375f3789b55273843d88139e572497
+image:
+  feature: feature-footprint.jpg
+  credit: Alice Donovan Rouse
+  creditlink: https://unsplash.com/photos/zrYIivWcw0I
 
 professional:
   - name: 네이버 주식회사
@@ -225,5 +230,4 @@ talks:
   - name: A Multithreaded Assembler to Parallelize De Novo DNA Sequencing
     where: Winter Symposium of Korea Genome Organization
     year: 2012
-
 ---

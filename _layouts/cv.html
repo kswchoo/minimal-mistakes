@@ -41,7 +41,7 @@
       <h3>
         <a href="{{ item.link }}">{{ item.name }}</a>
         <div class="duration">
-          {{ item.start | date: "%b %Y" }} 에서 {{ item.end | date: "%b %Y" }} 까지<br>
+          {{ item.start | date: "%b %Y" }} - {{ item.end | date: "%b %Y" }}<br>
           {{ item.location }}
         </div>
       </h3>
@@ -91,8 +91,8 @@
         {% if college.major %}{{ college.major }}{% endif %}
       </h4>
       <ul>
-            {% if college.adviser %}<li>지도교수: {{ college.adviser }}</li>{% endif %}
-            {% if college.dissertation %}<li>학위논문: {{ college.dissertation }}</li>{% endif %}
+            {% if college.adviser %}<li>{{ lang.text.advisor }}: {{ college.adviser }}</li>{% endif %}
+            {% if college.dissertation %}<li>{{ lang.text.dissertation }}: {{ college.dissertation }}</li>{% endif %}
         </ul>
         {% endfor %}
 

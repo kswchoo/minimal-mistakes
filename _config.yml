@@ -2,14 +2,15 @@
 
 #title: 케빈네
 locale: ko_KR
+url: 
+
 lang: ko
-url:
-
-
-
+language_names:
+  en: English
+  ko: 한국어
 
 # Jekyll configuration
-permalink:   /:categories/:title/
+permalink:   /posts/:categories/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:

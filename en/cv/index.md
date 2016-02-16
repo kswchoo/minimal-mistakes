@@ -2,6 +2,11 @@
 layout: cv
 lang: en
 title: Curriculum Vitae
+translation_id: 6d375f3789b55273843d88139e572497
+image:
+  feature: feature-footprint.jpg
+  credit: Alice Donovan Rouse
+  creditlink: https://unsplash.com/photos/zrYIivWcw0I
 
 professional:
   - name: NAVER Corporation
@@ -238,5 +243,4 @@ talks:
   - name: A Multithreaded Assembler to Parallelie De Novo DNA Sequencing
     where: Winter Symposium of Korea Genome Organization
     year: 2012
-
 ---
