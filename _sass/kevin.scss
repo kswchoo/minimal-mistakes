@@ -1,0 +1,44 @@
+#cv {
+	.duration {
+		font-size: 14px;
+		float: right;
+    	text-align: right;
+	}
+
+	h2 {
+		margin: 1em 0 0.5em 0;
+	}
+
+	h4 {
+		margin: 0.5rem 0 0.5rem 0;
+	}
+
+	ul {
+		padding: 0 0 0 20px;
+	}
+
+	.description {
+		margin: 0.2em 0 0.5em 0;
+	}
+
+	.skills {
+		text-indent: 0;
+		margin-top: 0.5em;
+	}
+
+	.pill {
+	    text-decoration: none;
+	    font-size: 12px;
+	    padding: 0 12px;
+	    margin: 0;
+	    line-height: 24px;
+	    height: auto;
+	    display: inline-block;
+	    background-color:#5DADE2;
+	    color: #ffffff;
+	}
+
+	a {
+		color: #5DADE2;
+	}
+}

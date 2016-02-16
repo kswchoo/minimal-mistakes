@@ -1,0 +1,169 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="page">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article id="cv" class="page">
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      <hr>
+      <h2>{{ lang.text.experience }}</h2>
+      {% for item in page.professional %}
+      <h3>
+        <a href="{{ item.link }}">{{ item.name }}</a>
+        <div class="duration">
+          {{ item.start | date: "%b %Y" }} 에서 {{ item.end | date: "%b %Y" }} 까지<br>
+          {{ item.location }}
+        </div>
+      </h3>
+      <h4>{{ item.title }}</h4>
+      <p>
+        {{ item.summary }}
+      </p>
+      <ul>
+        {% for project in item.projects %}
+        <li>
+          {% if project.link %}
+                <h4>
+                    <a href="{{ project.link }}">{{ project.name }}</a>
+                    {% if project.links.ios %}<a href="{{ project.links.ios }}"><i class="fa fa-apple"></i></a>{% endif %}
+                    {% if project.links.android %}<a href="{{ project.links.android }}"><i class="fa fa-android"></i></a>{% endif %}
+                </h4>
+                {% else %}
+                <h4>
+                    {{ project.name }}
+                    {% if project.links.ios %}<a href="{{ project.links.ios }}"><i class="fa fa-apple"></i></a>{% endif %}
+                    {% if project.links.android %}<a href="{{ project.links.android }}"><i class="fa fa-android"></i></a>{% endif %}
+                </h4>
+                {% endif %}
+                <p class="description">{{ project.description }}</p>
+                <p class="skills">
+                  {% for skill in project.skills %}
+                    <span class="pill"> {{ skill }} </span>
+                    {% endfor %}
+                </p>
+        </li>
+        {% endfor %}
+        </ul>
+        {% endfor %}
+
+        <hr>
+        <h2>{{ lang.text.education }}</h2>
+        {% for college in page.education.colleges %}
+        <h3>
+          <a href="{{ college.link }}">{{ college.name }}</a>
+          <div class="duration">
+            {{ college.year }}<br>
+            {{ college.location }}
+        </div>
+        </h3>
+        <h4>
+          {% if college.degree %}{{ college.degree }}, {% endif %}
+        {% if college.major %}{{ college.major }}{% endif %}
+      </h4>
+      <ul>
+            {% if college.adviser %}<li>지도교수: {{ college.adviser }}</li>{% endif %}
+            {% if college.dissertation %}<li>학위논문: {{ college.dissertation }}</li>{% endif %}
+        </ul>
+        {% endfor %}
+
+        <hr>
+        <h2>{{ lang.text.publication }}</h2>
+        <ul>
+        {% for publication in page.publications %}
+        <li>
+          <h4>
+              {% if publication.link %}<a href="{{ publication.link }}">{% endif %}{{ publication.title }}{% if publication.link %}</a>{% endif %}
+          </h4>
+          <p>
+              {% for author in publication.authors %}
+                  {% if author.me %}<strong>{% endif %}{{ author.name }}{% if author.me %}</strong>{% endif %}{% unless forloop.last %},{% endunless %}
+              {% endfor %}
+              <br />
+              in <i>{{ publication.publishedin }}</i>, {{ publication.year }}.
+          </p>
+        </li>
+        {% endfor %}
+        </ul>
+
+        <hr>
+        <h2>{{ lang.text.book }}</h2>
+        <ul>
+          {% for publication in page.books %}
+          <li>
+            <h4>
+                {% if publication.link %}<a href="{{ publication.link }}">{% endif %}<strong>{{ publication.title }}</strong>{% if publication.link %}</a>{% endif %}
+            </h4>
+            <p>
+                in <i>{{ publication.publishedin }}</i>, {{ publication.year }}.
+                <br />
+                {% for author in publication.authors %}
+                    {% if author.me %}<strong>{% endif %}{{ author.name }}{% if author.me %}</strong>{% endif %}{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+            </p>
+        </li>
+          {% endfor %}
+        </ul>
+
+        <hr>
+        <h2>{{ lang.text.honor }}</h2>
+        <ul>
+        {% for item in page.honors %}
+        <li>
+        <h4>{{ item.year }} {{ item.name }}{% if item.detail %}, <em>{{ item.detail }}</em>{% endif %}</h4>
+        </li>
+        {% endfor %}
+        </ul>
+
+        <hr>
+        <h2>{{ lang.text.talk }}</h2>
+        <ul>
+        {% for item in page.talks %}
+        <li><h4>{{ item.year }} {{ item.name }} @ <em><a href="{{ item.link }}">{{ item.where }}</a></em></h4></li>
+        {% endfor %}
+        </ul>
+
+      <hr>
+    </div><!-- /.article-wrap -->
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+
+</body>
+</html>
