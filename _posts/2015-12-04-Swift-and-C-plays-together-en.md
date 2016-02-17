@@ -3,6 +3,8 @@ layout: post
 lang: en
 title:  "Swift and C plays together" 
 translation_id: ec02199e1cdbe81577f9c401091ce172
+redirect_from:
+  - /en/blog/Swift-and-C-plays-together/
 ---
 
 <span class="dropcap">T</span>oday, Apple released [Swif](http://swift.org) by open source.

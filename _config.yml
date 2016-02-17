@@ -19,6 +19,7 @@ sass:
 gems:
   - jekyll-sitemap
   - octopress-multilingual
+  - jekyll-redirect-from
 
 kramdown:
   auto_ids: true

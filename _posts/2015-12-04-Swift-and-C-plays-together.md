@@ -3,6 +3,8 @@ layout: post
 lang: ko
 title:  "Swift와 C 함께 사용하기" 
 translation_id: ec02199e1cdbe81577f9c401091ce172
+redirect_from:
+  - /blog/Swift-and-C-plays-together/
 ---
 
 <span class="dropcap">오</span>늘 공개된 [Swift 오픈소스](http://swift.org) 를 보면서, "아파치 모듈을 Swift로 만들 수 있게 된다면 꽤 괜찮은 서버 플랫폼이 되지 않을까?" 라는 생각이 들어 간단한 실험을 해 봤다.
