@@ -1,8 +1,8 @@
 # Site wide configuration
 
-#title: 케빈네
+title: Kevin's
 locale: ko_KR
-url: 
+url: https://sungwoo.me
 
 lang: ko
 language_names:
