@@ -2,7 +2,8 @@
 
 title: Kevin's
 locale: ko_KR
-url: https://sungwoo.me
+url: 
+https_url: https://sungwoo.me
 
 lang: ko
 language_names:
@@ -54,7 +55,7 @@ owner:
   facebook: kswchoo
   google:
     plus: #username
-    analytics:
+    analytics: UA-44212597-2
     verify:
     ad-client:
     ad-slot:
