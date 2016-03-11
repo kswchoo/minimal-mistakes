@@ -5,7 +5,7 @@ title:  "노자와 온천 스노우 리조트"
 category: Travel
 comments: true
 image:
-  feature: 2016-02-16-Nozawa-Feature.jpg
+  feature: Nozawa-Onsen-Show-Resort/Feature.jpg
 ---
 
 지난 1월 23일부터 주말간의 도쿄 방문 중 잠시 짬을 내어 1박 일정으로 나가노현에 위치한 [노자와 온천 스키장 (野沢温泉スキー場)](http://www.nozawaski.com/winter/kr/index.php)에 들러 보았다.
@@ -13,12 +13,12 @@ image:
 어쩌다 보니 일행이 4명이나 되어 도쿄에서 렌터카를 발려서 가기로 결정했다. 토요일이 밝자 마자 일행들과 함께 닛산렌터카 시나가와역 지점을 방문했다. 방문까지는 좋았는데, 문이 닫혀 있는 것 아닌가... 8시 정각부터 대여를 신청했는데 지점은 8시 정각이 되어야 문을 여는 상황.
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Rent-a-Car-1.jpg"><img src="/images/2016-02-16-Nozawa-Rent-a-Car-1.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Rent-a-Car-1.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Rent-a-Car-1.jpg"></a>
     <figcaption>닛산렌터카 시나가와역 코난출구 지점은 나에게 시련을 안겨주었지만... 정확히 8시에 셧터가 열렸다.</figcaption>
 </figure>
 <figure class="half">
-    <a href="/images/2016-02-16-Nozawa-Rent-a-Car-2.jpg"><img src="/images/2016-02-16-Nozawa-Rent-a-Car-2.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-Rent-a-Car-3.jpg"><img src="/images/2016-02-16-Nozawa-Rent-a-Car-3.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Rent-a-Car-2.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Rent-a-Car-2.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Rent-a-Car-3.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Rent-a-Car-3.jpg"></a>
     <figcaption>아무쪼록 문을 열자마자 렌터카 겟! 기스(일본식 표현이다)난 곳이 없나 한번 살펴주고 탑승.</figcaption>
 </figure>
 
@@ -26,10 +26,10 @@ image:
 기다림의 시간을 보내고 마침내 손에 쥔 자동차 키. 몇 달 만에 좌측통행 나라에 와서 떨리는 마음을 다잡고 핸들을 잡았다. 도쿄에서 나가노현 노자와온센무라(野沢温泉村)까지는 자동차로 약 3시간 30분에서 4시간 정도가 걸린다. 고속도로 통행료도 편도에 8,000엔 정도가 들어가는 꽤 장거리 자동차 여행이었다.
 
 <figure class="half">
-    <a href="/images/2016-02-16-Nozawa-En-Route-1.jpg"><img src="/images/2016-02-16-Nozawa-En-Route-1.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-En-Route-2.jpg"><img src="/images/2016-02-16-Nozawa-En-Route-2.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-En-Route-3.jpg"><img src="/images/2016-02-16-Nozawa-En-Route-3.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-En-Route-4.jpg"><img src="/images/2016-02-16-Nozawa-En-Route-4.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/En-Route-1.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/En-Route-1.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/En-Route-2.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/En-Route-2.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/En-Route-3.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/En-Route-3.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/En-Route-4.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/En-Route-4.jpg"></a>
     <figcaption>나가노(長野)라 되어 있는 표지판을 따라 달리는 시간이 늘어날수록 차창 밖의 풍경도 함께 변해간다.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ image:
 처음에는 우리나라의 스키장들처럼 큰 리조트 건물을 찾으려고 시도했지만, 그런 것은 눈에 띄지 않았다. 무엇보다 차와 짐을 들고 다닐 수 없기에, 일단 숙소로 예약한 [라포레 야마네 (ラ・フォーレやまね)](http://www.lafore-yamane.com/) 로 먼저 이동하여 체크인을 부탁해 보기로 했다. 왠지 안될 것 같다는 예감과 함께...
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Lafore-Yamane.jpg"><img src="/images/2016-02-16-Nozawa-Lafore-Yamane.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Lafore-Yamane.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Lafore-Yamane.jpg"></a>
     <figcaption>떨어져 나가고 있는 간판을 그대로 쓰고 있는 "라포레 야마네"의 입구.</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ image:
 이에 물러서지 않고 우리는 최대한의 서비스를 이용하고자 (!) 리프트권 구입을 부탁드렸다. 인터넷에서 리프트권을 숙소에서 사면 조금 싸다는 이야기를 들어서 부탁드린 것인데, 무슨 차를 타고 가서 사와야 한단다. 일단은 OK 하고, 속절없이 로비에서 앉아서 무엇을 할 지 생각해 본다. 이미 시간이 오후 3시를 지나고 있어서 뭔가를 많이 타기엔 애매한 상황이라 좀 고민을 하고 있었더니, 할아버지께서 리프트권과 지도를 가지고 돌아오셨다.
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Map.jpg"><img src="/images/2016-02-16-Nozawa-Map.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Map.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Map.jpg"></a>
     <figcaption>노자와 온천 스키장 지도.</figcaption>
 </figure>
 
@@ -56,24 +56,24 @@ image:
 마을에서 히카게 스테이션으로 가려면 길쭉한 무빙워크 같은걸 타야 하는데, 무빙워크를 타고 38번 슬로프로 내려오면 무료로 약간의 보딩이 가능하긴 할 것 같다. 무빙워크 길이가 상당히 길어서, 올라가다 보면 그 옆으로 지나가는 보더와 스키어들을 볼 수 있다.
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Movingwalk.jpg"><img src="/images/2016-02-16-Nozawa-Movingwalk.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Movingwalk.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Movingwalk.jpg"></a>
     <figcaption>히카게 스테이션으로 올라가는 길에는 무빙워크가 있다. 무빙워크는 무료. 각 리프트의 가동상황을 보여주는 안내판이 서 있다.</figcaption>
 </figure>
 
 히카게 스테이션에 도착하면 아늑해 보이는 스키 베이스가 펼쳐진다. '어, 생각보다 작네?' 라고 생각할 수도 있겠지만, 아래 사진에서 보이는 구역은 슬로프맵 상의 좌측 하단부 일부 뿐이다.
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Hikage-Base.jpg"><img src="/images/2016-02-16-Nozawa-Hikage-Base.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Hikage-Base.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Hikage-Base.jpg"></a>
     <figcaption>히카게 스테이션에서 바라 본 베이스.</figcaption>
 </figure>
 <figure class="half">
-    <a href="/images/2016-02-16-Nozawa-Hikage-Lift.jpg"><img src="/images/2016-02-16-Nozawa-Hikage-Lift.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-Hikage-Gondola.jpg"><img src="/images/2016-02-16-Nozawa-Hikage-Gondola.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Hikage-Lift.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Hikage-Lift.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Hikage-Gondola.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Hikage-Gondola.jpg"></a>
     <figcaption>히카게 스테이션에는 2인승 리프트가 설치되어 있어서 초급자 슬로프로 사용되고 있다. 히카게 곤돌라를 타면 산 중턱의 우에노타이라 스테이션까지 바로 갈 수 있다.</figcaption>
 </figure>
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Hikage-Information-Center.jpg"><img src="/images/2016-02-16-Nozawa-Hikage-Information-Center.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Hikage-Information-Center.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Hikage-Information-Center.jpg"></a>
     <figcaption>히카게 스테이션 바로 옆에는 인포메이션 센터가 위치하고 있다. 간단한 렌탈 및 티켓 구매 등을 할 수 있다.</figcaption>
 </figure>
 
@@ -84,43 +84,43 @@ image:
 하지만 지나다니면서 이렇게 마을 구경도 하고, 온천들 구경을 하면서 일본 마을의 정취를 느껴 보는 것도 꽤 괜찮다. 길가다 나타난 온천 주변으로 스키 보드 장비를 챙겨 든 사람들이 걸어다니는 모습도 곧 익숙해진다.
 
 <figure class="half">
-    <a href="/images/2016-02-16-Nozawa-Street-Onsen.jpg"><img src="/images/2016-02-16-Nozawa-Street-Onsen.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-Street-Onsen-Me.jpg"><img src="/images/2016-02-16-Nozawa-Street-Onsen-Me.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Street-Onsen.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Street-Onsen.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Street-Onsen-Me.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Street-Onsen-Me.jpg"></a>
     <figcaption>보딩을 마치고 내려오면 마을 길에 이렇게 온천이 중간 중간 있다. 바로 옷을 벗고 들어가도 되겠지만... 아무래도 이런 차림으로는 곤란할 듯.</figcaption>
 </figure>
 
 <figure class="half">
-    <a href="/images/2016-02-16-Nozawa-Street.jpg"><img src="/images/2016-02-16-Nozawa-Street.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-Street-Bottles.jpg"><img src="/images/2016-02-16-Nozawa-Street-Bottles.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Street.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Street.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Street-Bottles.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Street-Bottles.jpg"></a>
     <figcaption>마을이 크지 않기 때문에, 스키장 베이스에 해당하는 곳 아래에는 이렇게 자그마한 상점들과 온천, 그리고 숙박시설들이 섞여 있다.</figcaption>
 </figure>
 
 숙소에 들어오면 식사시간. 식당으로 달려가면 일본 정식인 가이세키 요리를 맛볼 수 있다. 아무 데나 가서 앉으면 안되고, 대부분의 일본 료칸에서는 식당에 가서 방 번호에 해당하는 테이블로 가면 된다. 원래 일본 료칸은 상을 방 안으로 들여서 식사를 제공했다고 알고 있지만, 지금까지 가본 료칸은 전부 이런 식으로 별도의 식당을 갖춘 경우가 대부분이었다. 아무래도 방으로 상을 들이는 인건비 등이 문제가 되는 모양이다.
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Lafore-Yamane-Dinner.jpg"><img src="/images/2016-02-16-Nozawa-Lafore-Yamane-Dinner.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Lafore-Yamane-Dinner.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Lafore-Yamane-Dinner.jpg"></a>
     <figcaption>숙소인 라포레 야마네로 돌아오면 이런 가이세키 요리(정식)이 준비되어 있다.</figcaption>
 </figure>
 
 맛있게 밥을 먹고 나니 왠지 모자란 느낌이다. 밥을 무제한으로 가져다 먹을 수 있었음에도 불구하고, 여행지에 오면 꼭 술 한잔이 그리워질 때가 있다. 바로 밖으로 나서서 맥주 한 잔씩.
 
 <figure class="half">
-    <a href="/images/2016-02-16-Nozawa-Pub-1.jpg"><img src="/images/2016-02-16-Nozawa-Pub-1.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-Pub-2.jpg"><img src="/images/2016-02-16-Nozawa-Pub-2.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Pub-1.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Pub-1.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Pub-2.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Pub-2.jpg"></a>
     <figcaption>아무래도 하루를 마치고 저녁만으로는 모자라서, 나가서 간단하게 맥주를 한 잔 하기로 한다. 나마비루와 카라아게.</figcaption>
 </figure>
 
 <figure class="third">
-    <a href="/images/2016-02-16-Nozawa-Street-Night-1.jpg"><img src="/images/2016-02-16-Nozawa-Street-Night-1.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-Street-Night-2.jpg"><img src="/images/2016-02-16-Nozawa-Street-Night-2.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-Street-Night-3.jpg"><img src="/images/2016-02-16-Nozawa-Street-Night-3.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Street-Night-1.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Street-Night-1.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Street-Night-2.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Street-Night-2.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Street-Night-3.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Street-Night-3.jpg"></a>
     <figcaption>찾아 온 외국인도 많고, 돌아다니는 사람도 많아서 이 작은 마을의 밤거리는 활기가 넘친다.</figcaption>
 </figure>
 
 마을을 돌아다니다 보면 온천들이 구석구석에 숨어 있는데, 마을 주민들이 공동으로 관리하는 온천인 외탕이라고 한다. 각 집집마다 온천을 들이기가 어려워서 이렇게 공유해서 사용하는 모양인데, 각 온천마다 디자인이 모두 달라서 여러 외탕을 "순례"하는 사람들도 많이 있었다.
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Street-Onsen-2.jpg"><img src="/images/2016-02-16-Nozawa-Street-Onsen-2.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Street-Onsen-2.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Street-Onsen-2.jpg"></a>
     <figcaption>노자와온센무라에는 이런 모습의 외탕이 10여개가 있다. 숙소에서 간단히 씻은 다음, 마을 곳곳에 흩어져 있는 이 외탕에서 온천욕을 즐기면 된다.</figcaption>
 </figure>
 
@@ -138,14 +138,14 @@ image:
 또다시 장비를 이고 지고 언덕길을 헥헥대며 10여분을 올라갔을까. 나가사카 스테이션이 눈에 들어온다. 히카게 스테이션보다는 훨씬 뒤에 지어서 뭔가 새로운 느낌.
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Nagasaka-Station.jpg"><img src="/images/2016-02-16-Nozawa-Nagasaka-Station.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Nagasaka-Station.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Nagasaka-Station.jpg"></a>
     <figcaption>이번에는 나가사카 스테이션에서 출발해 보기로 한다.</figcaption>
 </figure>
 
 곤돌라를 타면 하차한 후 갈아탈 수 있는 야마비코 리프트를 타고 즐길 수 있는 오프 피스테 코스에 대한 설명문이 붙어 있다. "Self Responsibility Area" 라고 표기해 놨는데, 저 구역 안에서 조난을 당하면 구조 비용은 자신이 부담해야 한다는 내용.
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Nagasaka-Gondola-Notice.jpg"><img src="/images/2016-02-16-Nozawa-Nagasaka-Gondola-Notice.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Nagasaka-Gondola-Notice.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Nagasaka-Gondola-Notice.jpg"></a>
     <figcaption>곤돌라 안에는 오프 피스테(off-piste)로 즐길 수 있는 코스가 Self Responsibility Area 로 표시되어 있다.</figcaption>
 </figure>
 
@@ -157,17 +157,17 @@ image:
 이렇게 곤돌라와 리프트를 갈아타고 도착한 정상은 완전히 새로운 세상, 설국이었다. 주변에 보이는 모든 물체에는 흰 눈이 붙어서 온 세상이 하얗게 보이는 느낌.
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Yamabiko-Top.jpg"><img src="/images/2016-02-16-Nozawa-Yamabiko-Top.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Yamabiko-Top.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Yamabiko-Top.jpg"></a>
     <figcaption>야마비코 리프트에서 내리자 마자 펼쳐지는 설경. 이곳이 바로 설국이구나.</figcaption>
 </figure>
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Yamabiko-Top-Slope.jpg"><img src="/images/2016-02-16-Nozawa-Yamabiko-Top-Slope.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Yamabiko-Top-Slope.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Yamabiko-Top-Slope.jpg"></a>
     <figcaption>슬로프 입구에서는 많은 보더들과 스키어들이 내려갈 준비를 하고 있다.</figcaption>
 </figure>
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Yamabiko-Slope.jpg"><img src="/images/2016-02-16-Nozawa-Yamabiko-Slope.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Yamabiko-Slope.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Yamabiko-Slope.jpg"></a>
     <figcaption>슬로프를 내려가다 보면 이렇게 눈이 쌓인 모습을 질리도록 구경할 수 있다.</figcaption>
 </figure>
 
@@ -183,26 +183,26 @@ image:
 몇 번의 트리런을 즐기고 난 후, 트리런 몇 번만 하면 그날 체력을 다 쓸 것 같이 너무 더워서(!) 일반 슬로프 순례를 시작했다. 익숙한 압설을 타니 좀 여유도 생겨서 셀카도 찍어보고, 경치 구경도 하고, 메세지도 몇 통 보내고...
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Selfie.jpg"><img src="/images/2016-02-16-Nozawa-Selfie.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Selfie.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Selfie.jpg"></a>
     <figcaption>스키장 셀카는 이정도는 되어야지.</figcaption>
 </figure>
 
 이렇게 오전만 다시 보딩을 끝내고 베이스로 내려 오니 오후 1시쯤. 오전만 해도 길바닥은 전부 눈 천지였는데, 이제 차가 다니는 길들은 다 말끔해 져 있었다. 그 비결은 바로 온천수. 길 아래로 온천수가 흐르는 파이프가 설치되어 있는 곳도 있었고, 따뜻한 온천수를 바닥에 직접 뿌려서 눈을 녹게 하는 파이프가 설치된 곳도 있었다.
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Street-Water.jpg"><img src="/images/2016-02-16-Nozawa-Street-Water.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Street-Water.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Street-Water.jpg"></a>
     <figcaption>적설량이 무시무시해서 그런지 길과 주차장에는 이렇게 온천수로 바닥을 닦아내는 장치가 설치되어 있다.</figcaption>
 </figure>
 
 이렇게 노자와를 뒤로 하고 도쿄에서의 저녁 약속을 맞추기 위해 다시 도쿄로 돌아갔다. 만 하루가 안되게 있었더니 아쉬움이 많이 남지만, 다음에 기회가 되면 꼭 다시 와보기로 하면서.
 
 <figure class="half">
-    <a href="/images/2016-02-16-Nozawa-Going-Back-1.jpg"><img src="/images/2016-02-16-Nozawa-Going-Back-1.jpg"></a>
-    <a href="/images/2016-02-16-Nozawa-Going-Back-2.jpg"><img src="/images/2016-02-16-Nozawa-Going-Back-2.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Going-Back-1.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Going-Back-1.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Going-Back-2.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Going-Back-2.jpg"></a>
     <figcaption>노자와를 뒤로 하고 돌아가는 길. 남은 거리 184km.</figcaption>
 </figure>
 
 <figure>
-    <a href="/images/2016-02-16-Nozawa-Rent-a-Car-4.jpg"><img src="/images/2016-02-16-Nozawa-Rent-a-Car-4.jpg"></a>
+    <a href="/images/Nozawa-Onsen-Snow-Resort/Rent-a-Car-4.jpg"><img src="/images/Nozawa-Onsen-Snow-Resort/small/Rent-a-Car-4.jpg"></a>
     <figcaption>수고했어. 시나가와 502 와 55-78.</figcaption>
 </figure>
