@@ -1,0 +1,80 @@
+---
+layout: default
+sitemap: false
+permalink: /404.html
+lang: en
+---
+
+{% include base_path %}
+
+{% if (page.header.overlay_color or page.header.overlay_image) or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page" itemscope itemtype="http://schema.org/WebPage">
+    <div class="page__inner-wrap">
+
+      <section class="page__content" itemprop="text">
+
+        <h1 class="page__title" itemprop="headline">Page not found.</h1>
+        <p>Hmm... the page you were trying to view does not exist. Perhaps you can try searching for it below.</p>
+
+        <h2 itemprop="headline">페이지를 찾을 수 없습니다.</h2>
+        <p>음... 보시려고 한 페이지가 존재하지 않습니다. 아래 검색창에서 원하시던 내용을 검색해 보세요.</p>
+
+        <script type="text/javascript">
+          var GOOG_FIXURL_LANG = 'en';
+          var GOOG_FIXURL_SITE = '{{ site.url }}'
+        </script>
+        <script type="text/javascript"
+          src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+        </script>
+
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>{% endif %}
+      </section>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        {% if page.modified %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+        {% elsif page.date %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+        {% endif %}
+      </footer>
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
+
+      {% include post_pagination.html %}
+    </div>
+
+    {% if site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+
+  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
+  {% if page.id and page.related and site.related_posts.size > 0 %}
+    <div class="page__related">
+      {% if site.data.ui-text[site.locale].related_label %}
+        <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label }}</h4>
+      {% endif %}
+      <div class="grid__wrapper">
+        {% for post in site.related_posts limit:4 %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+</div>
